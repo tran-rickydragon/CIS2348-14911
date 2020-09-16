@@ -1,3 +1,4 @@
+#Ricky_Tran_1832920
 user_num1 = int(input('Enter integer:\n'))
 userNumSquared = user_num1 * user_num1
 userNumCubed = user_num1 * user_num1 * user_num1
