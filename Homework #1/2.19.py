@@ -1,3 +1,4 @@
+#Ricky_Tran_1832920
 lemon_juice = int(input("Enter amount of lemon juice (in cups):\n"))
 water = int(input("Enter amount of water (in cups):\n"))
 agave_nectar = float(input("Enter amount of agave nectar (in cups):\n"))
