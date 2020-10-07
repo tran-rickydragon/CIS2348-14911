@@ -1,3 +1,4 @@
+"""Ricky Tran - 1832920"""
 word = input()
 
 word1 = word.replace(' ', '')
