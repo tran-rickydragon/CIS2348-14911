@@ -1,3 +1,4 @@
+"""Ricky Tran - 1832920"""
 password = str(input(''))
 
 for x in password:
